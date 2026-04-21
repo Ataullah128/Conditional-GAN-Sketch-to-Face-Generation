@@ -159,8 +159,10 @@ python train.py --resume
 
 **Your Name**
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* LinkedIn: (optional)
+* GitHub: [https://github.com/your-username](https://github.com/Ataullah128)
+* LinkedIn:www.linkedin.com/in/ata-ullah-648756230
+
+
 
 ---
 

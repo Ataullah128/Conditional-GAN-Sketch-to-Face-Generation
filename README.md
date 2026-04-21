@@ -132,7 +132,8 @@ python train.py --resume
 | ------ | -------------- |
 | ✏️     | 🙂             |
 
-*(Add your generated images here)*
+<img width="254" height="345" alt="image" src="https://github.com/user-attachments/assets/44cd6e13-d1a4-48ca-a363-113fe52dde6b" />
+
 
 ---
 

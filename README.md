@@ -49,10 +49,13 @@ The model is trained using a combination of:
 
 ### Final Loss:
 
-[
-L = L_{GAN} + \lambda_1 L_{L1} + \lambda_2 L_{perceptual}
-]
+## Training Objective
 
+The total loss function is defined as:
+
+$$
+L = L_{GAN} + \lambda_1 L_{L1} + \lambda_2 L_{perceptual}
+$$
 ---
 
 ## 📊 Dataset
